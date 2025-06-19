@@ -26,32 +26,32 @@ question post which he will see the live polling results
 
 ## Tech Stack
 
-● Frontend
-React 18 - Main UI framework
-TypeScript - Type safety and better development experience
-Tailwind CSS - Utility-first CSS framework for styling
-React Router DOM - Client-side routing for navigation
-Socket.io Client - Real-time communication with the server
-Lucide React - Icon library
+● Frontend: 
+
+React 18 - Main UI framework,
+TypeScript - Type safety and better development experience,
+Tailwind CSS - Utility-first CSS framework for styling,
+React Router DOM - Client-side routing for navigation,
+Socket.io Client - Real-time communication with the server,
+Lucide React - Icon library,
 Vite - Build tool and development server
 
-● Backend
-Node.js - Runtime environment
-Express.js - Web server framework
-Socket.io - Real-time bidirectional communication
+● Backend:
+Node.js - Runtime environment.
+Express.js - Web server framework,
+Socket.io - Real-time bidirectional communication,
 CORS - Cross-origin resource sharing middleware
 
 ## Key Features Implemented
--Real-time WebSocket connections
--In-memory data storage (polls, results, student management)
--Responsive design with gradient backgrounds
--Session-based student identification
--Live result visualization with animated progress bars
--Timer functionality for polls
--Student management (kick functionality)
--Poll history tracking
+● Real-time WebSocket connections
+● In-memory data storage (polls, results, student management)
+● Responsive design with gradient backgrounds
+● Session-based student identification
+● Live result visualization with animated progress bars
+● Timer functionality for polls
+● Student management (kick functionality)
+● Poll history tracking
 
 ## How to run 
-
--npm install
--npm run dev
+npm install
+npm run dev
