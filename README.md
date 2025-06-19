@@ -12,6 +12,7 @@ was asked previously or if all the students have answered the
 question  and 
 
 The student should be able to 
+
 ● Enter his name while visiting for the first time this should be unique 
 only to a tab i.e if i open new tabs i should be able to act as a new 
 student but if i refresh the current tab i shouldn’t be asked the 
@@ -37,7 +38,7 @@ Lucide React - Icon library,
 Vite - Build tool and development server
 
 ● Backend:
-Node.js - Runtime environment.
+Node.js - Runtime environment,
 Express.js - Web server framework,
 Socket.io - Real-time bidirectional communication,
 CORS - Cross-origin resource sharing middleware
