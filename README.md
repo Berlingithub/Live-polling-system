@@ -26,7 +26,7 @@ question post which he will see the live polling results
 
 ## Tech Stack
 
-Frontend
+● Frontend
 React 18 - Main UI framework
 TypeScript - Type safety and better development experience
 Tailwind CSS - Utility-first CSS framework for styling
@@ -35,7 +35,7 @@ Socket.io Client - Real-time communication with the server
 Lucide React - Icon library
 Vite - Build tool and development server
 
-Backend
+● Backend
 Node.js - Runtime environment
 Express.js - Web server framework
 Socket.io - Real-time bidirectional communication
